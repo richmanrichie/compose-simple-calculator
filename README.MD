@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # ANDROID COMPOSE SAMPLE CALCULATOR PROJECT
 
 > Description the project.
